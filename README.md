@@ -6,24 +6,39 @@ This is a 3D-printable fiber termination box designed to be mounted alongside th
 
 ## Features
 
-- Compatible with MikroTik L009 mounting layout
-- Supports up to:
-  - **2 fiber couplers**
-  - **4 fusion splices**
-- **1 input cable** entry point at the back
-- Includes 3 printable parts:
-  - `BasePlate`
-  - `FiberTray`
-  - `Lid`
+- **Mounts directly** to MikroTik L009 using existing screw positions
+- Accommodates:
+  - **2 SC Simplex or 2 LC Duplex couplers**
+  - **4 fusion splices** (tested with 40mm x 3mm splice protectors)
+- **Rear cable entry**
+- **Snap-fit Lid** – no screws or tools required
+- **Zip-tie channels** for securing incoming fiber
+
+## Included Parts (All Required)
+
+- `BasePlate` – Mounting base with zip-tie channels (support optional)
+- `FiberTray` – Holds couplers, splice area, and fiber routing (requires supports)
+- `Lid` – Snap-fit cover (no supports needed)
+
+## Installation Instructions
+
+1. **Strip the fiber** and prepare it for splicing.
+2. Apply **foam tape** to the fiber cable and secure using **zip ties** in the two provided channels.
+3. Mount **2 SC Simplex or 2 LC Duplex couplers** with their respective pigtails.
+4. **Splice the fibers** and stow the excess in the built-in fiber channels (supports up to 4 splices).
+5. **Snap the Lid** onto the tray (snap-fit design).
+6. Mount the box using **2 existing screws** from the MikroTik L009 and optionally **2 additional screws** for added stability.
+
 
 ## Printing Information
 
-- **Tested printer:** Bambu H2D
+- **Tested printer:** Bambu Lab H2D
 - **Nozzle:** 0.4mm
-- **Profile:** 0.20mm standard
-- **Supports:** 
-  - Recommended for `FiberTray` and `BasePlate` (optional)
-  - Not required for `Lid`
+- **Layer height:** 0.20mm (Standard profile)
+- **Supports:**
+  - `BasePlate`: Optional
+  - `FiberTray`: Required
+  - `Lid`: Not required
 
 ## License
 
