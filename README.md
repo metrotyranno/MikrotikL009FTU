@@ -33,6 +33,9 @@ This is a 3D-printable fiber termination box designed to be mounted alongside th
 ## Printing Information
 
 - **Tested printer:** Bambu Lab H2D
+- **Recommended material:** ABS  
+  - The model was designed with ABS shrinkage in mind (approximately 0.8–1%).  
+  - If printing in other material, fitment may be tighter or looser; slight scaling adjustments may be needed.
 - **Nozzle:** 0.4mm
 - **Layer height:** 0.20mm (Standard profile)
 - **Supports:**
